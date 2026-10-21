@@ -8,6 +8,11 @@ I build web applications, connecting user interfaces with the backend systems an
 
 I'm a full stack engineer with an interest in practical software that helps people and businesses get things done. This profile is where I share my projects and development work.
 
+## Skills
+
+- **Languages:** Python, JavaScript
+- **Frontend:** HTML, CSS, React
+
 ## Featured project
 
 ### [IT Xperts Business Assistant](https://github.com/IT-Xperts01/it-xperts-business-assistant)
