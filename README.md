@@ -15,6 +15,7 @@ I'm a frontend developer with an interest in creating accessible, engaging web e
 
 - **Layout:** Responsive Design
 - **Design:** UI/UX Basics
+- **Best practices:** Accessibility
 
 ## Featured project
 
