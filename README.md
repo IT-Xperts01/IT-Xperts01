@@ -1,12 +1,12 @@
 # Hi, I'm Joel Eke 👋
 
-### Full Stack Engineer · IT Xperts
+### Frontend Developer · IT Xperts
 
-I build web applications, connecting user interfaces with the backend systems and databases that power them.
+I build responsive, user-friendly web interfaces with HTML, CSS, JavaScript, and React.
 
 ## About me
 
-I'm a full stack engineer with an interest in practical software that helps people and businesses get things done. This profile is where I share my projects and development work.
+I'm a frontend developer with an interest in creating accessible, engaging web experiences that help people and businesses get things done. This profile is where I share my projects and development work.
 
 ## Skills
 
