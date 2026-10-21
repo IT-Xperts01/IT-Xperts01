@@ -13,6 +13,9 @@ I'm a frontend developer with an interest in creating accessible, engaging web e
 - **Languages:** Python, JavaScript
 - **Frontend:** HTML, CSS, React
 
+- **Layout:** Responsive Design
+- **Design:** UI/UX Basics
+
 ## Featured project
 
 ### [IT Xperts Business Assistant](https://github.com/IT-Xperts01/it-xperts-business-assistant)
