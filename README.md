@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Joel Eke 👋
 
-<!--
-**IT-Xperts01/IT-Xperts01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Engineer · IT Xperts
 
-Here are some ideas to get you started:
+I build web applications, connecting user interfaces with the backend systems and databases that power them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I'm a full stack engineer with an interest in practical software that helps people and businesses get things done. This profile is where I share my projects and development work.
+
+## Featured project
+
+### [IT Xperts Business Assistant](https://github.com/IT-Xperts01/it-xperts-business-assistant)
+
+A business workspace for managing sales, expenses, inventory, and invoices, with Supabase authentication and data storage, report exports, and recovery copies.
+
+## Explore my work
+
+Browse my [public repositories](https://github.com/IT-Xperts01?tab=repositories) to see what I've been building.
